@@ -2,7 +2,7 @@
 
 ## Установить конфиг
 ```sh
-yarn add -D prettier @happycode/prettier-config
+yarn add -D prettier @happycode-core/prettier-config
 ```
 
 ## Как использовать
