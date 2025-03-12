@@ -1,5 +1,5 @@
 {
-  "name": "@happycode/prettier-config",
+  "name": "@happycode-core/prettier-config",
   "version": "1.0.0",
   "license": "MIT",
   "private": false,
