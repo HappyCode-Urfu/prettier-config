@@ -1,0 +1,22 @@
+{
+  "name": "@happycode/prettier-config",
+  "version": "1.0.0",
+  "license": "MIT",
+  "private": false,
+  "description": "prettier-config",
+  "main": "index.js",
+  "type": "module",
+  "author": {
+    "name": "HappyCode",
+    "url": "https://github.com/konoplitsky"
+  },
+  "repository": {
+    "url": "https://github.com/HappyCode-Urfu/prettier-config"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  },
+  "peerDependencies": {
+    "prettier": "^3.5.3"
+  }
+}
